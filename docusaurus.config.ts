@@ -6,12 +6,12 @@ const config: Config = {
   title: 'Hidekingerz Site',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
-  url: 'https://blog.hidekingerz.com',
+  url: 'https://www.hidekingerz.com',
   baseUrl: '/',
 
   // GitHub pages deployment config.
   organizationName: 'hidekingerz',
-  projectName: 'blogpost',
+  projectName: 'website',
   deploymentBranch: 'gh-pages',
   trailingSlash: false,
 
