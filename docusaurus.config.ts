@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Hidekingerz Site',
+  title: 'www.hidekingerz.com',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
   url: 'https://www.hidekingerz.com',
@@ -44,8 +44,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    // Replace with your project's social card
-    image: 'img/docusaurus-social-card.jpg',
+    image: 'img/social-card.jpg',
     navbar: {
       title: 'Hidekingerz Site',
       logo: {
