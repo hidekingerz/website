@@ -3,8 +3,8 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'www.hidekingerz.com',
-  tagline: 'Dinosaurs are cool',
+  title: 'Hidekingerz Site',
+  tagline: '弦とコード、コーディングとアート。広がる多彩な趣味の世界。',
   favicon: 'img/favicon.ico',
   url: 'https://www.hidekingerz.com',
   baseUrl: '/',
@@ -45,6 +45,10 @@ const config: Config = {
 
   themeConfig: {
     image: 'img/social-card.png',
+    metadata: [
+      {name: 'keywords', content: 'frontend, typescript, blog, guitar, violin'},
+      {name: 'twitter:card', content: 'summary_large_image'},
+    ],
     navbar: {
       title: 'Hidekingerz Site',
       logo: {
