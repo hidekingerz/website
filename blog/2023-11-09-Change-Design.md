@@ -18,5 +18,5 @@ Docusaurusのデフォルトのイメージファイルをそのまま利用し�
 
 あと、利用しているデバイスの記事を書きました。次回はLoupedeckCTを書く予定です。
 
-- [Carpio2.0](https://www.hidekingerz.com/docs/Devices/Carptio2.0.md)
-- [HHKB Professional Hybrid Type-S](https://www.hidekingerz.com/docs/Devices/HHKB-Professional-Hybrid-Type-S.md)
+- [Carpio2.0](https://www.hidekingerz.com/docs/Devices/device-carptio2)
+- [HHKB Professional Hybrid Type-S](https://www.hidekingerz.com/docs/Devices/device-hhkb-hybrid-types)
