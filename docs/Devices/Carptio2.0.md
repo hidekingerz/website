@@ -1,3 +1,11 @@
+---
+id: device-carptio2
+title: Carptio2.0
+tags:
+  - device
+  - carptio2
+  - wrist-rest
+---
 # Carptio2.0
 
 製品ページ：[Carpio 2.0 - Ergonomic Wrist Rest](https://deltahub.io/products/carpio-ergonomic-wrist-rest)

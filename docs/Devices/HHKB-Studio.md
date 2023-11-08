@@ -1,3 +1,11 @@
+---
+id: device-hhkb-studio
+title: HHKB Studio
+tags:
+  - device
+  - keyboard
+  - hhkb
+---
 # HHKB Studio
 
 製品ページ：https://happyhackingkb.com/jp/products/studio/

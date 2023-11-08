@@ -1,3 +1,11 @@
+---
+id: device-hhkb-hybrid-types
+title: HHKB Professional Hybrid Type-S
+tags:
+  - device
+  - keyboard
+  - hhkb
+---
 # HHKB Professional Hybrid Type-S
 
 製品ページ：[Happy Hacking Keyboard | HHKB HYBRID Type-S | PFU](https://happyhackingkb.com/jp/products/hybrid_types/)
