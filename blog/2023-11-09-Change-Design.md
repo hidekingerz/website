@@ -1,5 +1,5 @@
 ---
-slug: Change Design
+slug: Change-Design
 title: サイトデザインの変更と二つのデバイスの記事を追加
 authors: [hidekingerz]
 tags: [Bing Image Creator, ChatGPT3.5]
@@ -18,5 +18,5 @@ Docusaurusのデフォルトのイメージファイルをそのまま利用し�
 
 あと、利用しているデバイスの記事を書きました。次回はLoupedeckCTを書く予定です。
 
-- [Carpio2.0](/docs/Devices/Carptio2.0)
-- [HHKB Professional Hybrid Type-S](/docs/Devices/HHKB-Professional-Hybrid-Type-S)
+- [Carpio2.0](@site/docs/Devices/Carptio2.0.md)
+- [HHKB Professional Hybrid Type-S](@site/docs/Devices/HHKB-Professional-Hybrid-Type-S.md)
