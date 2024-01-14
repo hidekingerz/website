@@ -9,3 +9,14 @@ updates:
       - "hidekingerz"
     labels:
       - "auto-update"
+    groups:
+      docusaurus:
+        patterns:
+          - "@docusaurus/*"
+      typescript:
+        patterns:
+          - "typescript"
+      react:
+        patterns:
+          - "react"
+          - "react-dom"
