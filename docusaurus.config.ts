@@ -3,7 +3,7 @@ import type {Config} from '@docusaurus/types';
 import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
-  title: 'Hidekingerz Site',
+  title: 'Hidekingerz Works',
   tagline: '弦とコード、コーディングとアート。広がる多彩な趣味の世界。',
   favicon: 'img/favicon.ico',
   url: 'https://www.hidekingerz.com',

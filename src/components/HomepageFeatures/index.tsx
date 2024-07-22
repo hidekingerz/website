@@ -25,8 +25,8 @@ export default function HomepageFeatures(): JSX.Element {
             <div className="text--center padding-horiz--md">
               <Heading as="h3">{'楽器'}</Heading>
               <p>
-                <p>バイオリンは主にクラシックをメインで５年目。<br></br>先生に師事して２年目。</p>
-                <p>ギターは1年目。</p>
+                <p>バイオリンは主にクラシックをメインで6年目。<br></br>先生に師事して3年目。</p>
+                <p>ギターは2年目。</p>
               </p>
             </div>
           </div>
