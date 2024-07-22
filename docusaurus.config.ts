@@ -86,8 +86,8 @@ const config: Config = {
           title: 'Community',
           items: [
             {
-              label: 'Twitter',
-              href: 'https://twitter.com/hidekingerz999',
+              label: 'X',
+              href: 'https://x.com/hidekingerz999',
             },
           ],
         },
