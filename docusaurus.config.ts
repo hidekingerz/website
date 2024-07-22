@@ -50,7 +50,7 @@ const config: Config = {
       {name: 'twitter:card', content: 'summary_large_image'},
     ],
     navbar: {
-      title: 'Hidekingerz Site',
+      title: 'Hidekingerz Works',
       logo: {
         alt: 'My Site Logo',
         src: 'img/logo.svg',
